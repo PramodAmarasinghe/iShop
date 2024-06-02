@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "547843951951",
+    "firebase_url": "https://ishop-3cb08-default-rtdb.firebaseio.com",
+    "project_id": "ishop-3cb08",
+    "storage_bucket": "ishop-3cb08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547843951951:android:3412da7836032c3ca7093a",
+        "android_client_info": {
+          "package_name": "com.example.ishopapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBhw2V-OxQjHa0l2IBjHcRQv7l7nGIKM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
