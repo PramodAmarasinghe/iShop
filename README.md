@@ -11,11 +11,11 @@ This Android application is specifically designed to assist blind individuals in
 - **Location Services:** Effortlessly navigate the supermarket layout with guided assistance.
 - **Product Management:** Handle and track your shopping items with ease.
 - **Shopping Cart:** Manage your shopping cart, add items, and review your list before checkout.
-
+##
 - capable with single tap, double tap, and swipe UP to turn on google voice
-- home pg: single tap
-- cart: double tap
-- location: swipe UP
+    - home pg: single tap
+    - cart: double tap
+    - location: swipe UP
 
   ## Voice Commands
 
