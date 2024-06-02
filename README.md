@@ -30,9 +30,9 @@ To set up the app on your device, follow these steps:
 
 ## Screenshots
 
-![Screenshot_20240509-175008_Google](https://github.com/PramodAmarasinghe/iShop/assets/171472506/cebf47b9-2a19-4fe2-ad5b-c8b38356d1ae)
-
 ![Screenshot_20240509-174846_Google](https://github.com/PramodAmarasinghe/iShop/assets/171472506/c3aaf268-f9ec-48ca-ad79-6c1d7f524ce5)
+
+![Screenshot_20240509-175008_Google](https://github.com/PramodAmarasinghe/iShop/assets/171472506/cebf47b9-2a19-4fe2-ad5b-c8b38356d1ae)
 
 ![Screenshot_20240509-174853_iShopApp](https://github.com/PramodAmarasinghe/iShop/assets/171472506/7aedcf0d-6976-4478-b484-668df8501434)
 
