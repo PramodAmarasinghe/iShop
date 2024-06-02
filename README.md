@@ -19,11 +19,12 @@ This Android application is specifically designed to assist blind individuals in
 
   ## Voice Commands
 
-- **Open Shopping cart:** the shopping cart
-- **Open Map:** supermarket map
-- **Get instructions:** read instructions
-- **ADD/FETCH/UPDATE/DELETE data in cart:** add item, show items, update items, delete items
-- **Get derections:** command the name of the item
+- **Open Shopping cart:** "the shopping cart"
+- **Open Map:** "supermarket map"
+- **Get instructions:** "read instructions"
+- **ADD/FETCH/UPDATE/DELETE data in cart:** "add item, show items, update items, delete items"
+- **Hear order summary:** "what is my total price"
+- **Get derections:** "command the name of the item"
 
 ## User Interfaces
 
@@ -38,6 +39,7 @@ This Android application is specifically designed to assist blind individuals in
 To set up the app on your device, follow these steps:
 
 - Launch the app on your Android device.
+- Create a firebase realtime database and connect.
 - Use voice commands to interact with the app
 
 ## Screenshots
