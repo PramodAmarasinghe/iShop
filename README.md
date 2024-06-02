@@ -6,12 +6,24 @@ This Android application is specifically designed to assist blind individuals in
 
 - **Voice Commands:** Operate the app entirely through voice instructions to navigate, search, and execute actions.
 - **Product Search:** Quickly find products by simply speaking their names.
-- **Price Checking:** Receive real-time price information with a voice query.
 - **Online Access:** Seamlessly access product details, offers, and more through an online connection.
 - **Discounts:** Stay updated on ongoing discounts and special offers.
 - **Location Services:** Effortlessly navigate the supermarket layout with guided assistance.
 - **Product Management:** Handle and track your shopping items with ease.
 - **Shopping Cart:** Manage your shopping cart, add items, and review your list before checkout.
+
+- capable with single tap, double tap, and swipe UP to turn on google voice
+- home pg: single tap
+- cart: double tap
+- location: swipe UP
+
+  ## Voice Commands
+
+- **Open Shopping cart:** the shopping cart
+- **Open Map:** supermarket map
+- **Get instructions:** read instructions
+- **ADD/FETCH/UPDATE/DELETE data in cart:** add item, show items, update items, delete items
+- **Get derections:** command the name of the item
 
 ## User Interfaces
 
