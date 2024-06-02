@@ -27,7 +27,30 @@ To set up the app on your device, follow these steps:
 
 - Launch the app on your Android device.
 - Use voice commands to interact with the app
-  
-```bash
-git clone https://github.com/PramodAmarasinghe/iShop.git
+
+## Screenshots
+
+![Screenshot_20240509-175008_Google](https://github.com/PramodAmarasinghe/iShop/assets/171472506/cebf47b9-2a19-4fe2-ad5b-c8b38356d1ae)
+
+![Screenshot_20240509-174846_Google](https://github.com/PramodAmarasinghe/iShop/assets/171472506/c3aaf268-f9ec-48ca-ad79-6c1d7f524ce5)
+
+![Screenshot_20240509-174853_iShopApp](https://github.com/PramodAmarasinghe/iShop/assets/171472506/7aedcf0d-6976-4478-b484-668df8501434)
+
+![Screenshot_20240509-174927_iShopApp](https://github.com/PramodAmarasinghe/iShop/assets/171472506/5111f9eb-2593-4f81-bb24-b9c625235416)
+
+![Screenshot_20240509-175026_iShopApp](https://github.com/PramodAmarasinghe/iShop/assets/171472506/cdb63a0c-647a-47c0-b027-54950fc79089)
+
+![Screenshot_20240509-174811_iShopApp](https://github.com/PramodAmarasinghe/iShop/assets/171472506/563e8ff4-0e4e-4f54-8cd1-35cb5e8091ef)
+
+![Screenshot_20240509-174955_iShopApp](https://github.com/PramodAmarasinghe/iShop/assets/171472506/7f2c9183-a026-4594-a118-f8e68c012b29)
+
+![Screenshot_20240509-175045_iShopApp](https://github.com/PramodAmarasinghe/iShop/assets/171472506/d9131d31-6221-4d9e-a61e-f94078c146f4)
+
+![Screenshot_20240509-174901_iShopApp](https://github.com/PramodAmarasinghe/iShop/assets/171472506/e0601e75-f1a0-4474-8b59-5924ee44c5a1)
+
+![Screenshot_20240509-174913_iShopApp](https://github.com/PramodAmarasinghe/iShop/assets/171472506/629c59b9-8689-4095-aaf4-ec4e84500004)
+
+
+
+
 
